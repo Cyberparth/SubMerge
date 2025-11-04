@@ -15,8 +15,6 @@ Here’s a polished version you can use (just paste it into your `README.md` fil
 ---
 <img width="592" height="640" alt="image" src="https://github.com/user-attachments/assets/ea6e8aa9-a26c-4b69-bf16-6744ebd8dd00" />
 
-![SubMerge Banner](<img width="407" height="113" alt="image" src="https://github.com/user-attachments/assets/44688c04-c066-40b1-bc83-184eedf10344" />
-)
 
 ---
 
