@@ -1,11 +1,3 @@
-# SubMerge
-Submerge — Unified Subdomain Recon &amp; Deduplication
-Submerge is a lightweight recon tool that runs multiple subdomain enumerators (Kali packages and GitHub tools like subfinder, amass, assetfinder), aggregates and normalizes their results, removes duplicates, and outputs a single ready-to-use unique_subdomains.txt for downstream scanning.
-Got it 👍 I can’t open your GitHub repo directly, but you’ve told me enough to write a **professional README** for your SubMerge project.
-Here’s a polished version you can use (just paste it into your `README.md` file and add your screenshot at the top):
-
----
-
 # 🧠 SubMerge
 
 ### Unified Subdomain Recon & Deduplication Tool
