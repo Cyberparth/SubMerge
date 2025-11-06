@@ -1,4 +1,4 @@
 sudo apt update -y
 sudo apt upgrade -y
 
-sudo apt install amass subfinder assetfinder
+sudo apt install amass subfinder assetfinder findomain
