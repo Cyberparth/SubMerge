@@ -73,7 +73,7 @@ Run SubMerge with a domain name of your choice:
 
 The tool will:
 
-1. Enumerate subdomains using **Subfinder**, **Amass**, **Assetfinder**, and more.
+1. Enumerate subdomains using **Subfinder**, **Amass**, **Assetfinder**, **findomain**and more.
 2. Merge all results into one file.
 3. Deduplicate entries.
 4. Save final output as:
